@@ -7,3 +7,7 @@ if __name__ == "__main__":
 
 def mul(a,b):
     return a*b
+
+
+def media(a,b):
+    return (a+b)/2
