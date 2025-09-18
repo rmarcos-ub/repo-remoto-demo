@@ -9,5 +9,5 @@ def mul(a,b):
     return a*b
 
 
-def media(a,b):
+def media(a,b):  # versión rama
     return (a+b)/2
