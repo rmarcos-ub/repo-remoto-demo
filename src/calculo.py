@@ -4,10 +4,8 @@ def suma(a,b):
 if __name__ == "__main__":
     print(suma(2,3))
 
-
 def mul(a,b):
     return a*b
 
-
-def media(a,b):  # versión main
+def media(a,b):  # versión final
     return (a+b)/2
